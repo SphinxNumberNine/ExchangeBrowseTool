@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeBrowse", "ExchangeBrowse.csproj", "{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Debug|Any CPU.ActiveCfg = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Debug|Mixed Platforms.ActiveCfg = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Debug|Mixed Platforms.Build.0 = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Debug|Win32.ActiveCfg = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Debug|Win32.Build.0 = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Debug|x64.ActiveCfg = Release|x64
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Debug|x64.Build.0 = Release|x64
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Release|Win32.ActiveCfg = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Release|Win32.Build.0 = Release|Win32
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Release|x64.ActiveCfg = Release|x64
+		{36DA5126-02C6-4AE9-BE49-BD487B6CF28C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
